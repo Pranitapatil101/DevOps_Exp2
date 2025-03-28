@@ -1,0 +1,1 @@
+Git is a powerful, free, and open-source distributed version control system used to track changes in software code, enabling developers to collaborate efficiently and manage projects of any size. 
